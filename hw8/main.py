@@ -144,3 +144,4 @@ if __name__ == '__main__':
     with open("contacts_file.json","r") as read_file:
         text = json.load(read_file)
         pprint(text)
+        read_file.close()
