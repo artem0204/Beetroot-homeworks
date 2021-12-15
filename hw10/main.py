@@ -1,4 +1,4 @@
-from classes import Person, Student, Teacher, Mathematician, Product,ProductStore,CustomExeption
+from classes import Person, Student, Teacher, Mathematician, Product, ProductStore, CustomExeption
 
 if __name__ == '__main__':
     # task 1
@@ -22,12 +22,13 @@ if __name__ == '__main__':
     listLeaps = [1988, 2020, 2025, 2008, 1913]
     print(mathematic.filter_leaps(listLeaps))
 
-#    task 3
-    product1 = Product("Sport","football tshirt", 330)
-    product2 = Product("Vegatabls","Tomato",12)
+    #    task 3
+    product1 = Product("Sport", "football tshirt", 330)
+    product2 = Product("Vegatables", "Tomato", 12)
     productStore = ProductStore()
-    print(productStore.add(product1,3))
-
+    print(productStore.add(product1, 9))
+    print(productStore.add(product2, 7))
+    productStore.sell_product(product2,"Tomato", 4)
 
 # task 4
 try:
