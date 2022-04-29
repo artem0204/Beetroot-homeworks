@@ -1,0 +1,12 @@
+{
+    "programming": [
+        "How could the greatest marketing comppany in the world screw programming up so badly!?",
+        "I\u2019ve done some programming work with time and such, and to be honest, without the library functions it gets pretty complicated (or at least to overlook something). If you think about it, there are a lot of rules involved. Leap years, 12-hour time, months, days of the week, daylight savings time (which varies from region to region), time zones, etc. Also, it can be a difficult thing to test all cases for.\n\nHowever, a company as big as Apple should be able to figure these problems out before they release them. ",
+        "I started programming only with UTC when storing dates..  the best thing I ever did..."
+    ],
+    "digital": [
+        "IMAX HD was tested once in the 90's and deemed too expensive. It's not exactly a standard format (abandoned experiment might be more accurate), and it certainly wasn't a digital one.",
+        "This is mostly true... Finished up working on a feature film a couple months ago and everything was rendered at 2048x1152 (16:9 2k).\n\nFrom there, the different copies were made... the DCP (digital cinema copy) was cropped at 2048 x 872 I believe and the blu ray master was a crop aswell at 1920x1080... The reason for the cropping instead of scaling is to keep the sharpness of the image itself.\n\nAs for the TDK stuff, some WAS rendered at 8k... but majority... majority of it was rendered at 5k and above. Majority of the actual footage in TDK was not shot in IMAX resolution... you can clearly tell the different sections when watching the blu ray copy. as it switches aspect ratio between 2.35:1 (i think? or 2.39) and 16:9\n\nIm not sure who came up with the 1920x1080 resolution... but hopefully it doesnt stay around for much longer. I think they should have gone straight to the film aspect ratio of 2.35:1 (1920 x 817)",
+        "How do you figure? When I zoom in on digital pictures I see pixels...if I use a loupe on a kodachrome print, I don't see anything except for color...I'd have to get out a microscope to see the microns of color that film produces.\n\nAll digital photography is doing is producing visual waste."
+    ]
+}
